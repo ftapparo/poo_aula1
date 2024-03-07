@@ -1,0 +1,20 @@
+{
+  "name": "poo_aula",
+  "version": "0.1.0",
+  "description": "Aula de desenvolvimento em Programcao Orientada a Objetos",
+  "main": "index.ts",
+  "scripts": {
+    "start": "nodemon index.ts"
+  },
+  "author": "Flavio Eduardo Tapparo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "4.17.21",
+    "nodemon": "^3.0.1",
+    "typescript": "5.3.3"
+  },
+  "dependencies": {
+    "express": "4.18.3",
+    "ts-node": "10.9.2"
+  }
+}
